@@ -21,3 +21,6 @@
 
 2) 불일치 시
 ![불일치](incorrect.PNG)
+
+
+김경섭(팀장-https://github.com/kleg26315/), 
